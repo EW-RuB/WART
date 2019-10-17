@@ -9,19 +9,19 @@ Im Standalone-Modus wird die Simulation aus der Octave-GUI gestartet, wobei alle
 Der GUI-Modus ermöglicht eine einfache Bedienung für Dritte. Hierzu stehen zwei Python-GUI's zur Verfügung (Demo und Advanced). Die Demo-GUI wurde rein zur Demonstrationszwecken entwickelt, weshalb die Materialeigenschaften aus einer Sammlung von fiktiven Werten bezogen werden. Die Advanced-GUI ist mit einer SQLite3-Datenbank verbunden, in welcher reale Materialeigenschaften enthalten sind. 
 Der GUI-Modus des Programmes lässt sich wie folgt bedienen:
 
-..* Start_GUI ausführen
-..* Demo- oder Advanced-GUI wählen
-..* Im Reiter "Materialien" die gewünschten drei Medien festlegen
-..* Im Reiter "Hauptmenü" den Modus(Winkel-, Frequenzsweep oder fester Winkel/feste Frequenz), Frequenz und Winkel definieren
-..* Animation mit einem Klick auf "Start" starten
+* Start_GUI ausführen
+* Demo- oder Advanced-GUI wählen
+* Im Reiter "Materialien" die gewünschten drei Medien festlegen
+* Im Reiter "Hauptmenü" den Modus(Winkel-, Frequenzsweep oder fester Winkel/feste Frequenz), Frequenz und Winkel definieren
+* Animation mit einem Klick auf "Start" starten
 
 
 ### Warum "Open-Source"?
 
-..* Zunächst ist es von Interesse, ob bzw. wie hilfreich oder sogar nützlich Anwender das Programm finden. 
-..* Weiterhin sind Verbesserungen und Erweiterungen bzw. Modifikationen durch andere Entwickler erwünscht.
+* Zunächst ist es von Interesse, ob bzw. wie hilfreich oder sogar nützlich Anwender das Programm finden. 
+* Weiterhin sind Verbesserungen und Erweiterungen bzw. Modifikationen durch andere Entwickler erwünscht.
 
 ### Anmerkungen
 
-..* Das Programm wurde ausschließlich unter Linux entwickelt und getestet.
-..* Falls Interesse am mathematischen bzw. physikalischen Modell des Programmes besteht, können ausführliche Informationen gerne erfragt werden. 
+* Das Programm wurde ausschließlich unter Linux entwickelt und getestet.
+* Falls Interesse am mathematischen bzw. physikalischen Modell des Programmes besteht, können ausführliche Informationen gerne erfragt werden. 
